@@ -1,4 +1,4 @@
-# Hi there, I'm kakstalentcommunity 👋
+# Hi there, I'm Kennedy Musyoki👋
 
 Welcome to my GitHub profile! I'm passionate about technology and coding, and I love to share my knowledge and projects with the community.
 
