@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 
 ## My Skills
 
-- **Languages:** Python, JavaScript, HTML, CSS, java
-- **Frameworks/Libraries:** React, Node.js, Django
-- **Tools:** Git, Docker, VS Code
-- **Databases:** MySQL, MongoDB
+- **Languages:** Python, JavaScript, HTML, CSS, java, php, 
+- **Frameworks/Libraries:** React, laravel, Node.js, Django, fastapi, flask
+- **Tools:** Git, Docker, Kubernetes, VS Code
+- **Databases:** MySQL, MongoDB, postgres
 
 ## GitHub Stats
 
