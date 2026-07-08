@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 
 Here are some of the projects I'm working on:
 
-- [Project 1](https://github.com/kakstalentcommunity/financial-chatbot)) 
+- [Project 1](https://github.com/kakstalentcommunity/financial-chatbot)
 - [Project 2](https://github.com/cyfras/Apipoweredsaccoerp)- 
 - [Project 3](https://github.com/kakstalentcommunity/project3) -
 
