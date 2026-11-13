@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: readme-updates
+  cancel-in-progress: false
+
 jobs:
   activity:
     runs-on: ubuntu-latest
