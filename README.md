@@ -79,18 +79,24 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kakstalentcommunity&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakstalentcommunity&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img src="./metrics.overview.svg" alt="GitHub metrics" width="95%" />
+
+<br/>
+
+<img src="./metrics.isocalendar.svg" alt="3D contribution calendar" width="95%" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=kakstalentcommunity&theme=radical&hide_border=true" height="170" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kakstalentcommunity&theme=react-dark&hide_border=true&area=true" width="95%" />
-
 </div>
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
