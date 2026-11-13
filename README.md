@@ -44,6 +44,15 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 
 ---
 
+## 📦 Latest Repositories
+
+<!--START_REPOS-->
+<!--END_REPOS-->
+
+> 🔄 This list rebuilds itself every few hours, so new repos appear automatically.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
