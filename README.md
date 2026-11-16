@@ -23,6 +23,8 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 - 🏢 Founder of **Competent Software Technologies**: custom software, web & mobile development, UI/UX, cloud/DevOps, API integration and IT consulting
 - 🎓 Fourth-year **BSc Computer Science** student at **Kisii University**
 - 🔭 Currently building **fintech and AI-powered systems**: SACCO/ERP platforms, M-Pesa integrations and LLM-driven financial assistants
+- 🔁 Contributing to a system migration from **Microsoft Dynamics 365 Business Central (AL)** to **PHP**
+- 🧩 Working knowledge of **Dynamics 365 Business Central**: AL extensions and ERP business logic
 - 🌱 Learning advanced algorithms, machine learning and production-grade systems design
 - 👯 Looking to collaborate on innovative projects
 - 💬 Ask me about web development, APIs, fintech integrations and data science
@@ -47,16 +49,6 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 ## 📦 Latest Repositories
 
 <!--START_REPOS-->
-| Repository | Description | Language | ⭐ | Last push |
-|---|---|---|---|---|
-| [**wallet-service**](https://github.com/kakstalentcommunity/wallet-service) | Double-entry wallet and payments backend with Spring Boot, PostgreSQL, and M-Pesa Daraja | Java | 0 | 2026-11-13 |
-| [**lara**](https://github.com/kakstalentcommunity/lara) | No description yet | — | 0 | 2026-11-10 |
-| [**emobilis-personal-project**](https://github.com/kakstalentcommunity/emobilis-personal-project) | No description yet | Python | 0 | 2026-11-09 |
-| [**company-AI-Assistant**](https://github.com/kakstalentcommunity/company-AI-Assistant) | No description yet | Python | 0 | 2026-11-09 |
-| [**Mallimart**](https://github.com/kakstalentcommunity/Mallimart) | No description yet | HTML | 0 | 2026-10-26 |
-| [**portfolio**](https://github.com/kakstalentcommunity/portfolio) | No description yet | HTML | 0 | 2026-10-26 |
-| [**real-estate**](https://github.com/kakstalentcommunity/real-estate) | No description yet | HTML | 0 | 2026-10-26 |
-| [**portfolio-website**](https://github.com/kakstalentcommunity/portfolio-website) | No description yet | HTML | 0 | 2026-10-09 |
 <!--END_REPOS-->
 
 > 🔄 This list rebuilds itself every few hours, so new repos appear automatically.
@@ -70,6 +62,7 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![AL](https://img.shields.io/badge/AL%20(Business%20Central)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -80,6 +73,10 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### ERP & Business Applications
+![Dynamics 365 BC](https://img.shields.io/badge/Dynamics%20365%20Business%20Central-002050?style=for-the-badge&logo=microsoftdynamics365&logoColor=white)
+![Laravel](https://img.shields.io/badge/PHP%20Migration-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
