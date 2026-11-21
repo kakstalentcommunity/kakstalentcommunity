@@ -51,6 +51,7 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 <!--START_REPOS-->
 | Repository | Description | Language | ⭐ | Last push |
 |---|---|---|---|---|
+| [**AI-Coding-Robot-**](https://github.com/kakstalentcommunity/AI-Coding-Robot-) | No description yet | Python | 0 | 2026-11-21 |
 | [**wallet-service**](https://github.com/kakstalentcommunity/wallet-service) | Double-entry wallet and payments backend with Spring Boot, PostgreSQL, and M-Pesa Daraja | Java | 0 | 2026-11-20 |
 | [**AI-Coding-Robot**](https://github.com/kakstalentcommunity/AI-Coding-Robot) | No description yet | Python | 0 | 2026-11-19 |
 | [**lara**](https://github.com/kakstalentcommunity/lara) | No description yet | — | 0 | 2026-11-10 |
@@ -58,7 +59,6 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 | [**company-AI-Assistant**](https://github.com/kakstalentcommunity/company-AI-Assistant) | No description yet | Python | 0 | 2026-11-09 |
 | [**Mallimart**](https://github.com/kakstalentcommunity/Mallimart) | No description yet | HTML | 0 | 2026-10-26 |
 | [**portfolio**](https://github.com/kakstalentcommunity/portfolio) | No description yet | HTML | 0 | 2026-10-26 |
-| [**real-estate**](https://github.com/kakstalentcommunity/real-estate) | No description yet | HTML | 0 | 2026-10-26 |
 <!--END_REPOS-->
 
 > 🔄 This list rebuilds itself every few hours, so new repos appear automatically.
