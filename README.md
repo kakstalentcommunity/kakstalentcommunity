@@ -55,10 +55,10 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 | [**AI-Coding-Robot-**](https://github.com/kakstalentcommunity/AI-Coding-Robot-) | No description yet | Python | 0 | 2026-11-21 |
 | [**AI-Coding-Robot**](https://github.com/kakstalentcommunity/AI-Coding-Robot) | No description yet | Python | 0 | 2026-11-19 |
 | [**lara**](https://github.com/kakstalentcommunity/lara) | No description yet | — | 0 | 2026-11-10 |
-| [**emobilis-personal-project**](https://github.com/kakstalentcommunity/emobilis-personal-project) | No description yet | Python | 0 | 2026-11-09 |
 | [**company-AI-Assistant**](https://github.com/kakstalentcommunity/company-AI-Assistant) | No description yet | Python | 0 | 2026-11-09 |
 | [**Mallimart**](https://github.com/kakstalentcommunity/Mallimart) | No description yet | HTML | 0 | 2026-10-26 |
 | [**portfolio**](https://github.com/kakstalentcommunity/portfolio) | No description yet | HTML | 0 | 2026-10-26 |
+| [**real-estate**](https://github.com/kakstalentcommunity/real-estate) | No description yet | HTML | 0 | 2026-10-26 |
 <!--END_REPOS-->
 
 > 🔄 This list rebuilds itself every few hours, so new repos appear automatically.
