@@ -51,8 +51,8 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, and I 
 <!--START_REPOS-->
 | Repository | Description | Language | ⭐ | Last push |
 |---|---|---|---|---|
+| [**wallet-service**](https://github.com/kakstalentcommunity/wallet-service) | Double-entry wallet and payments backend with Spring Boot, PostgreSQL, and M-Pesa Daraja | Java | 0 | 2026-11-27 |
 | [**AI-Coding-Robot-**](https://github.com/kakstalentcommunity/AI-Coding-Robot-) | No description yet | Python | 0 | 2026-11-21 |
-| [**wallet-service**](https://github.com/kakstalentcommunity/wallet-service) | Double-entry wallet and payments backend with Spring Boot, PostgreSQL, and M-Pesa Daraja | Java | 0 | 2026-11-20 |
 | [**AI-Coding-Robot**](https://github.com/kakstalentcommunity/AI-Coding-Robot) | No description yet | Python | 0 | 2026-11-19 |
 | [**lara**](https://github.com/kakstalentcommunity/lara) | No description yet | — | 0 | 2026-11-10 |
 | [**emobilis-personal-project**](https://github.com/kakstalentcommunity/emobilis-personal-project) | No description yet | Python | 0 | 2026-11-09 |
